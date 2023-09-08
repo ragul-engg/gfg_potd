@@ -1,4 +1,4 @@
-package september.binarytreetobst;
+package september;
 
 import java.util.ArrayList;
 import java.util.Collections;
